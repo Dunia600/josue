@@ -1,6 +1,8 @@
 <?php
 $name = "blessing";
-$age = 30
+$age = 30;
+$nationality = "congolese"
 
-echo ("I am $name I am $age")
+echo ("I am $name I am $age" + "<br>");
+echo ($nationality)
 ?>
